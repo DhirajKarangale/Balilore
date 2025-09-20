@@ -19,11 +19,6 @@ Our mission is to **collect, preserve, and promote Bali's stories**, supporting 
 |------|---------|-----------------|--------------|
 | ![Home](https://balilore-staging.vercel.app/Screenshots/Home.png) | ![Welcome](https://balilore-staging.vercel.app/Screenshots/Welcome.png) | ![Community Stories](https://balilore-staging.vercel.app/Screenshots/CommunityStories.png) | ![Story](https://balilore-staging.vercel.app/Screenshots/Story.png) |
 
-> ⚠️ **Note:** Replace the URLs with relative paths if using locally or GitHub Pages:  
-```md
-![Home](/Screenshots/Home.png)
-```
-
 ---
 
 ## 🌟 Key Features
@@ -86,10 +81,3 @@ npm run dev
 - **Deploy:** Vercel (automatic with GitHub integration)  
 
 ---
-
-## 📌 Badges
-
-![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-000?style=flat&logo=vercel)  
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react)  
-![Vite](https://img.shields.io/badge/Vite-Fast%20Builds-646CFF?style=flat&logo=vite)  
-![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=flat&logo=tailwindcss)
