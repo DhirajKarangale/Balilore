@@ -26,6 +26,7 @@ Our mission is to **collect, preserve, and promote Bali's stories**, supporting 
 - 📸 **Story Grid / Gallery View:** Browse shared stories, images, and videos  
 - 📝 **Submit Stories:** Users can submit stories with validations  
 - 🎯 **Banner / Hero Section:** Highlight featured content  
+- 🌙 **Color Switch / Theme Mode:** Toggle between night and day mode for better UX  
 - 🔍 **SEO & Metadata:** Optimized for search engines  
 - 📱 **Responsive Design:** Fully responsive for all devices  
 - 🌐 **Routing:** Smooth navigation with React Router DOM  
@@ -65,7 +66,6 @@ Whether you are a resident, a frequent visitor, or someone inspired by Bali from
 ## 🏗 Development & Deployment
 
 - **GitHub Repo:** [https://github.com/DhirajKarangale/balilore-staging](https://github.com/DhirajKarangale/balilore-staging)  
-- **Clone Repo:**  
 ```bash
 git clone https://github.com/DhirajKarangale/balilore-staging.git
 cd balilore-staging
@@ -78,6 +78,4 @@ npm install
 ```bash
 npm run dev
 ```
-- **Deploy:** Vercel (automatic with GitHub integration)  
-
 ---
