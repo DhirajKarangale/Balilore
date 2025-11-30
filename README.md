@@ -15,10 +15,14 @@ Our mission is to **collect, preserve, and promote Bali's stories**, supporting 
 
 ## 📂 Preview
 
-<div align="center"> <img src="https://balilore-staging.vercel.app/preview/balilore-staging.gif" alt="BaliLore Preview" width="800" /> </div> <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DhirajKarangale/Balilore/main/public/preview/balilore-staging.gif" alt="BaliLore Preview" width="800" />
+</div>
+
+<br/>
 
 | Home | Welcome | Community Stories | Story Detail |
-|------|---------|-----------------|--------------|
+|------|---------|------------------|--------------|
 | ![Home](https://balilore-staging.vercel.app/preview/Home.png) | ![Welcome](https://balilore-staging.vercel.app/preview/Welcome.png) | ![Community Stories](https://balilore-staging.vercel.app/preview/CommunityStories.png) | ![Story](https://balilore-staging.vercel.app/preview/Story.png) |
 
 ---
