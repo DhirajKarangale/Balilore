@@ -16,7 +16,7 @@ Our mission is to **collect, preserve, and promote Bali's stories**, supporting 
 ## 📂 Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DhirajKarangale/Balilore/main/public/preview/balilore-staging.gif" alt="BaliLore Preview" width="800" />
+  <img src="https://raw.githubusercontent.com/DhirajKarangale/Balilore/main/public/preview/Balilore.gif" alt="BaliLore Preview" width="800" />
 </div>
 
 <br/>
